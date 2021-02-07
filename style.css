@@ -1,0 +1,98 @@
+h1{
+    font-size: 60px;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    font-family:sans-serif;
+    user-select:none;
+}
+
+a{
+    text-decoration:none;
+}
+
+.btn{
+    width: 350px;
+    border-radius: 10px;
+    height:70px;
+    border:solid 4px rgb(151, 60, 0);
+    background-color: rgba(255, 115, 0, 0.849);
+    text-align:center;
+    font-size:40px;
+    display: block;
+    margin: auto;
+    margin-bottom:30px;
+}
+
+#burro1{
+    width: 140px;
+    float: left;
+
+}
+
+#burro2{
+    width:140px;
+    float: right;
+}
+
+footer{
+    font-size:15px;
+    float:right;
+    clear: both;
+    font-style: italic;
+    user-select: none;
+}
+
+.info{
+    text-align:center;
+    font-size: 30px;
+}
+
+#numerador{
+    width:70px;
+    font-size:20px;
+    font-weight:bold;
+    background-color: rgb(227, 0, 235);
+    border:solid rgb(151, 60, 0);
+    border-radius:100%;
+    user-select: none;
+    text-align: center;
+}
+
+#perguntas{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 80px;
+    position: relative;
+    bottom:125px;
+}
+
+.btnR{
+    width: 350px;
+    border-radius: 10px;
+    height:70px;
+    border:solid 4px rgb(151, 60, 0);
+    background-color: rgba(255, 115, 0, 0.849);
+    text-align:center;
+    font-size:30px;
+    margin-bottom:30px;
+}
+
+#btnsUp{
+    display:flex;
+    justify-content: space-around;
+}
+
+#btnsDown{
+    display:flex;
+    justify-content: space-around;
+}
+
+#FailFrase{
+    font-size:30px;
+    text-align:center;
+
+}
+
